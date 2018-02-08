@@ -1,0 +1,5 @@
+﻿  driver.cpp
+c:\users\dinhduc\desktop\345\final\dungonsanddragons2\dandd\driver.cpp(32): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\dinhduc\desktop\345\final\dungonsanddragons2\dandd\driver.cpp(902): warning C4101: 'num': unreferenced local variable
+  DandD.vcxproj -> C:\Users\dinhduc\Desktop\345\FINAL\DungonsAndDragons2\Debug\DandD.exe
+  DandD.vcxproj -> C:\Users\dinhduc\Desktop\345\FINAL\DungonsAndDragons2\Debug\DandD.pdb (Full PDB)

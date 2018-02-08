@@ -1,0 +1,1 @@
+30 30 30 30 30 30 100 17 false Ring 24 Charisma true Weapon 95 Strength

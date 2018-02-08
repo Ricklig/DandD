@@ -1,0 +1,85 @@
+Campaign started 
+Player has chosen to be a Bully character
+First map has started 
+Dice was rolled... TotalScore: 30
+Player movement Phase
+Player moved right
+Player moved right
+Player moved down
+Player moved down
+Player has chosen to be a Bully character
+Player moved down
+Player moved down
+Player moved right
+Player moved right
+Player moved right
+Player moved right
+Player moved down
+Player moved down
+Player moved down
+Player moved down
+Player moved down
+First map has ended 
+Second map has started 
+Dice was rolled... TotalScore: 24
+Player movement Phase
+Player moved left
+Player moved left
+Player moved up
+Player moved up
+Player moved up
+Player moved up
+Player moved up
+Player moved up
+Player moved left
+Player moved left
+Player moved up
+Player moved up
+Attack Attempted by player... Attack result: - 11 from enemy's health
+Attack Attempted by player... Attack result: - 11 from enemy's health
+Attack Attempted by player... Attack result: - 11 from enemy's health
+Player moved left
+Player moved left
+Player moved left
+Second map has ended 
+Third map has started 
+Dice was rolled... TotalScore: 21
+Player movement Phase
+Player moved right
+Player moved right
+Player moved down
+Player moved down
+Player moved down
+Player moved down
+Player moved right
+Player moved right
+Player moved right
+Player moved right
+Player moved right
+Third map has ended 
+Fourth map has started 
+Dice was rolled... TotalScore: 1
+Player movement Phase
+Player moved left
+Player moved left
+NPC movement Phase
+NPC Action Phase
+Player Free Action Phase
+Dice was rolled... TotalScore: 24
+Player movement PhasePlayer moved left
+Player moved left
+Attack Attempted by player... Attack result: - 15 from enemy's health
+Attack Attempted by player... Attack result: - 15 from enemy's health
+Player moved left
+Player moved left
+Player moved up
+Player moved up
+Player moved up
+Player moved up
+Player moved right
+Player moved right
+Player moved right
+Player moved right
+Player moved right
+Fourth map has ended 
+Game has ended 

@@ -1,0 +1,1 @@
+3 3 3 3 3 3 10 1 false Ring 2 Charisma true Weapon 5 Strength

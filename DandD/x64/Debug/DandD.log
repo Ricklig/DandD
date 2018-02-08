@@ -1,0 +1,37 @@
+﻿Build started 11/30/2016 4:14:42 PM.
+     1>Project "G:\My Documents\Visual Studio 2013\Projects\DungonsAndDragons\DandD\DandD.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /sdl /Od /D _DEBUG /D _CONSOLE /D _USING_V110_SDK71_ /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt DiceObserver.cpp driver.cpp
+         driver.cpp
+     1>driver.cpp(33): warning C4101: 'ending' : unreferenced local variable
+     1>driver.cpp(39): warning C4101: 'mapS' : unreferenced local variable
+     1>driver.cpp(31): warning C4101: 'yesOrNo' : unreferenced local variable
+     1>driver.cpp(37): warning C4101: 'tempMap' : unreferenced local variable
+     1>driver.cpp(39): warning C4101: 'mapI2' : unreferenced local variable
+     1>driver.cpp(39): warning C4101: 'mapI1' : unreferenced local variable
+     1>driver.cpp(39): warning C4101: 'mapE' : unreferenced local variable
+     1>driver.cpp(32): warning C4101: 'creatorDecision' : unreferenced local variable
+         DiceObserver.cpp
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"G:\My Documents\Visual Studio 2013\Projects\DungonsAndDragons\x64\Debug\DandD.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"G:\My Documents\Visual Studio 2013\Projects\DungonsAndDragons\x64\Debug\DandD.pdb" /SUBSYSTEM:CONSOLE,"5.02" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\My Documents\Visual Studio 2013\Projects\DungonsAndDragons\x64\Debug\DandD.lib" /MACHINE:X64 x64\Debug\Campaign.obj
+         x64\Debug\Character.obj
+         x64\Debug\CharacterObserver.obj
+         x64\Debug\Combat.obj
+         x64\Debug\Dice.obj
+         x64\Debug\DiceObserver.obj
+         x64\Debug\driver.obj
+         x64\Debug\Enhancement.obj
+         x64\Debug\Item.obj
+         x64\Debug\ItemContainer.obj
+         x64\Debug\Map.obj
+         x64\Debug\MapObserver.obj
+         x64\Debug\NPC.obj
+         x64\Debug\Observer.obj
+         x64\Debug\Subject.obj
+         DandD.vcxproj -> G:\My Documents\Visual Studio 2013\Projects\DungonsAndDragons\x64\Debug\DandD.exe
+     1>Done Building Project "G:\My Documents\Visual Studio 2013\Projects\DungonsAndDragons\DandD\DandD.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:09.85
